@@ -3,7 +3,8 @@ style: "style1 orient-left content-align-left image-position-center onscroll-ima
 id: "second"
 title : "Give her chance to show love"
 content: |
-  Kid learns through mirroring our behaviors. We totally realize how true it is. Soon we realize she would do exactly what we do to love us back. Pick up camera and shoot pictures for us, saying good morning everyday, and even put one knee down to talk to us (come on! I can't get further lower anymore)
+  Kid learns through <strong>mirroring our behaviors</strong>. We totally realize how true it is. <br> 
+  Soon we realize she would do exactly what we do to love us back. Picking up camera and shoot pictures for us, saying good morning everyday, and even put one knee down to talk to us (come on! I just want to get close to your eye level).
 button: 
   label: "Learn More"
   link: "#third"

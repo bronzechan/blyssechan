@@ -3,7 +3,10 @@ style: "style1 orient-right content-align-left image-position-center onscroll-im
 id: "third"
 title : "Learning from the parents"
 content: |
-  We have the luxury to be with her at home most the time. That gives us opportunities to teach her directly. We are enjoying to spend time to train her with what we know. <br> Daddy is repsonsible mostly with labor heavy activities such as skiing, swimming, roller skating. He is also taking care of her STEM activities to build lego, mathematics calculation and science subject. <br> Mammy is more on recreational subject like scootering, sewing, fashion-designs and painting. <br> By teaching and learning together, she can rely on us to resolve any questions come into her mind. 
+  We have the luxury to be with her at home most the time. That gives us opportunities to <strong>teach her directly</strong>. We are enjoying to spend time to train her with what we know. <br> 
+  <strong>Daddy</strong> is repsonsible mostly with labor-intensive activities such as skiing, swimming, roller skating. He is also taking care of her STEM activities - following instructions to build lego, run formulas on mathematics calculation and other science related subject. <br> 
+  <strong>Mammy</strong> is more on recreational subjects like scootering, sewing, fashion designs and painting. <br> 
+  By teaching and learning together, she can rely on us to resolve any questions come into her mind. 
 button: 
   label: "Show me more pictures"
   link: "#gallery"
