@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style2 orient-right content-align-left image-position-right onscroll-image-fade-in onload-image-fade-in"
+id: "daddy"
+title : "Daddy"
+content: |
+  A home-office daddy who loves raising and talking to kids. Known for his patience with kids. <br> Also he is a frequent flyer to explore Asia Pacific and often brings the family with new adventures.  
+button: 
+  label: "Daddy's work"
+  link: "http://www.bee-channel.com"
+image: "images/BRO06396.jpg"

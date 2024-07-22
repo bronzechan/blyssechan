@@ -1,65 +1,51 @@
 title : "What's special about her"
 content: |
-  Look at these traits! She is wonderful! 
+  To us - she is the best gift for our family. Lovely, gentle, caring and full of laughter. <br> We are so proud of her progress while still always get shocked with her ability to catch new skills. <br> Here are some of the highlights. 
 style: "style1 medium onscroll-fade-in"
 items:
   # feature item loop
   - name : "Bi-lingual"
-    content : "She speaks very well with English and Cantonese, giving her multiple ways to express whatever she needs to describe."
+    content : "Blysse speaks very well with both English and Cantonese. With two languages in mind, it gives her multiple ways to express her thoughts with precise vocabulary."
     style : "style2 major fa-language"
-
-  # feature item loop
-  - name : "No Certification"
-    content : "We believe teaching new knowledge is part of the parenting experience."
-    style : "solid style2 major fa-certificate"
     
   # feature item loop
-  - name : "Home-grown"
-    content : "Home-schooled with most activities"
-    style : "solid style2 major fa-leaf"
-    
-  # feature item loop
-  - name : "Underwater Record"
-    content : "11.40' with underwater treasure hunt"
+  - name : "Underwater"
+    content : "Blysse is learning to swim with her family. She can now hold her breath for 12 seconds and have fun gliding underwater for treasure hunt."
     style : "solid style2 major fa-life-ring"
     
   # feature item loop
   - name : "Ski"
-    content : "She can ride chairlift and ski on green slopes"
+    content : "She learned skiing with in 2 days and grasped the body control very well. She can enjoy riding the chairlift and skiing on green slopes confidently."
     style : "solid style2 major  fa-paper-plane"
     
   # feature item loop
-  - name : "Six"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "style2 major fa-paper-plane"
+  - name : "Comment by teacher #1"
+    content : "Blysse has been consistent this semester in displaying good habits in the classroom. She is an active learner who enjoys participating and engaging in class discussions. "
+    style : "style2 major fa-bolt"
     
   # feature item loop
-  - name : "Seven"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-desktop"
+  - name : "Comment by teacher #2"
+    content : "Her writing skills have become stronger over the semester and her attention to detail in her work has made very good improvement. "
+    style : "solid style2 major fa-info-circle"
     
   # feature item loop
-  - name : "Eight"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-sync-alt"
+  - name : "Comment by teacher#3"
+    content : "Blysse's ability to understand and interpret texts has made significant progress. She has a strong command of vocabulary in her speech and continues to expand on her vocabulary range on a daily."
+    style : "solid style2 major fa-book"
     
   # feature item loop
-  - name : "Nine"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-hashtag"
+  - name : "Creative"
+    content : "Blysse has an exceptional memory and correlation skill to mix and match what she knows. It is always surprising to see her making connection between her findings "
+    style : "solid style2 major fa-exclamation"
     
   # feature item loop
-  - name : "Ten"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+  - name : "Humourous"
+    content : "Blysse's Daddy usually talk to her with one knee down to communicate in eye level. At one point she thought that is the nice gesture to talk - and she got one knee down to talk to her father back."
     style : "solid style2 major fa-bolt"
     
   # feature item loop
-  - name : "Eleven"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "style2 major fa-envelope"
+  - name : "Strong bond with family"
+    content : "We always start the day with good morning, tons of I love you and sleep with a good night."
+    style : "style2 major fa-child"
     
-  # feature item loop
-  - name : "Twelve"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-leaf"
-    
+  

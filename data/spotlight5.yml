@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style2 orient-left content-align-right image-position-center onscroll-image-fade-in onload-image-fade-in"
+id: "mammy"
+title : "Mammy"
+content: |
+  A heart-warming mammy who loves delivering utmost care to people around. <br> Also she is a seasonal florist who tailors bouquets and flower baskets for various events. 
+button: 
+  label: "Mammy's Work"
+  link: "http://www.habit-boutique.com"
+image: "images/BRO08480.jpg"

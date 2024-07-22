@@ -1,9 +1,9 @@
 ####################### Spotlight #########################
 style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in onload-image-fade-in"
 id: "third"
-title : "Capability over Certification"
+title : "Learning from the parents"
 content: |
-  We have the luxury to be with her at home most the time. That gives us opportunities to teach her on our own. We are able to train her for skiing, swimming, ice-skating, roller skating, scootering, sewing, fashion-designs and building legos. She is in love with all the activities. 
+  We have the luxury to be with her at home most the time. That gives us opportunities to teach her directly. We are enjoying to spend time to train her with what we know. <br> Daddy is repsonsible mostly with labor heavy activities such as skiing, swimming, roller skating. He is also taking care of her STEM activities to build lego, mathematics calculation and science subject. <br> Mammy is more on recreational subject like scootering, sewing, fashion-designs and painting. <br> By teaching and learning together, she can rely on us to resolve any questions come into her mind. 
 button: 
   label: "Show me more pictures"
   link: "#gallery"
