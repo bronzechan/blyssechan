@@ -3,7 +3,9 @@ style: "style1 orient-right content-align-left image-position-center onscroll-im
 id: "first"
 title : "Enjoy being a young kid"
 content: |
-  Being a kid in Kindergarten should be the <strong>happiest</strong> part of her life. No Pressure, Stress, or over-education. We believe having fun is the key to love learning - we make sure she enjoys expressing her creativity. 
+  Being a kid in Kindergarten should be the <strong>happiest</strong> part of her life. No Pressure, no Stress, but fun. <br> 
+  We believe having fun is the key to love learning -  We let her choose what she wants to do - it can be swimming, running or painting, she has a plentiful of selections to enjoy her activities. <br>
+  Most of the time we play with her together. We make sure she enjoys expressing her creativity with freedom to describe her imaginary friends and fantasy to us. <br>
 ## <p> <span class="demo-controls">appearance with a number of modifiers</span> </p>
 button: 
   label: "Learn More"
