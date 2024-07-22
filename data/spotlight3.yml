@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in onload-image-fade-in"
+id: "third"
+title : "Capability over Certification"
+content: |
+  We have the luxury to be with her at home most the time. That gives us opportunities to teach her on our own. We are able to train her for skiing, swimming, ice-skating, roller skating, scootering, sewing, fashion-designs and building legos. She is in love with all the activities. 
+button: 
+  label: "Show me more pictures"
+  link: "#gallery"
+image: "images/BRO05784.jpg"

@@ -1,0 +1,12 @@
+####################### Banner #########################
+style: "style3 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "Blysse Chan"
+subtitle: |
+  Story to raise her from toddler to a kiddo
+content : |
+  This is the family of <strong>Blysse</strong>. We want to raise her in a warm family and drive her to challenge new knowledge with confidence. 
+button:
+  label : "Get Started"
+  link : "#first"
+image : "images/BRO07602.jpg"
+

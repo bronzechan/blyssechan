@@ -1,0 +1,65 @@
+title : "What's special about her"
+content: |
+  Look at these traits! She is wonderful! 
+style: "style1 medium onscroll-fade-in"
+items:
+  # feature item loop
+  - name : "Bi-lingual"
+    content : "She speaks very well with English and Cantonese, giving her multiple ways to express whatever she needs to describe."
+    style : "style2 major fa-language"
+
+  # feature item loop
+  - name : "No Certification"
+    content : "We believe teaching new knowledge is part of the parenting experience."
+    style : "solid style2 major fa-certificate"
+    
+  # feature item loop
+  - name : "Home-grown"
+    content : "Home-schooled with most activities"
+    style : "solid style2 major fa-leaf"
+    
+  # feature item loop
+  - name : "Underwater Record"
+    content : "11.40' with underwater treasure hunt"
+    style : "solid style2 major fa-life-ring"
+    
+  # feature item loop
+  - name : "Ski"
+    content : "She can ride chairlift and ski on green slopes"
+    style : "solid style2 major  fa-paper-plane"
+    
+  # feature item loop
+  - name : "Six"
+    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "style2 major fa-paper-plane"
+    
+  # feature item loop
+  - name : "Seven"
+    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "solid style2 major fa-desktop"
+    
+  # feature item loop
+  - name : "Eight"
+    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "solid style2 major fa-sync-alt"
+    
+  # feature item loop
+  - name : "Nine"
+    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "solid style2 major fa-hashtag"
+    
+  # feature item loop
+  - name : "Ten"
+    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "solid style2 major fa-bolt"
+    
+  # feature item loop
+  - name : "Eleven"
+    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "style2 major fa-envelope"
+    
+  # feature item loop
+  - name : "Twelve"
+    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "solid style2 major fa-leaf"
+    

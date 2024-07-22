@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in onload-image-fade-in"
+id: "first"
+title : "Enjoy being a young kid"
+content: |
+  Being a kid in Kindergarten should be the <strong>happiest</strong> part of her life. No Pressure, Stress, or over-education. We believe having fun is the key to love learning - we make sure she enjoys expressing her creativity 
+button: 
+  label: "Learn More"
+  link: "#second"
+image: "images/BRO06484.jpg"

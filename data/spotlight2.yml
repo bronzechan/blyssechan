@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in onload-image-fade-in"
+id: "second"
+title : "Give her chance to show love"
+content: |
+  Kid learns through mirroring our behaviors. We totally realize how true it is. Soon we realize she would do exactly what we do to love us back. Pick up camera and shoot pictures for us, saying good morning everyday, and even crouch down to talk to us (come on! I can't get further lower anymore)  
+button: 
+  label: "Learn More"
+  link: "#third"
+image: "images/BRO07198.jpg"
