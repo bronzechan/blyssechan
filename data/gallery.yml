@@ -2,7 +2,8 @@ title: "Photo Gallery"
 id: "gallery"
 style: "style1 medium lightbox onscroll-fade-in"
 content: |
-  We have some of our favourite pictures of her precious moments. <p> Change <span class="demo-controls">appearance with a number of modifiers</span> </p>
+  We have some of our favourite pictures of her precious moments. 
+## <p> Change <span class="demo-controls">appearance with a number of modifiers</span> </p>
 pictures:
   - title: "First snow experience"
     content: "Kid loves snow. It's the same for the adults. We had a lovely time with Hokkaido with the powder snow." 

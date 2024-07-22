@@ -5,6 +5,7 @@ subtitle: |
   Story to raise her from toddler to a kiddo
 content : |
   This is the family of <strong>Blysse</strong>. We want to raise her in a warm family and drive her to challenge new knowledge with confidence. 
+## <p> <span class="demo-controls">appearance with a number of modifiers</span> </p>
 button:
   label : "Get Started"
   link : "#first"

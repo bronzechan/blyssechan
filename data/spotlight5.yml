@@ -3,7 +3,7 @@ style: "style2 orient-left content-align-right image-position-center onscroll-im
 id: "mammy"
 title : "Mammy"
 content: |
-  A heart-warming mammy who loves delivering utmost care to people around. <br> Also she is a seasonal florist who tailors bouquets and flower baskets for various events. 
+  A heart-warming mammy who loves delivering <strong>utmost care</strong> to people around. <br> Also she is a seasonal florist who tailors bouquets and flower baskets for various events. <br> Interests: Flowers, Designs, Food
 button: 
   label: "Mammy's Work"
   link: "http://www.habit-boutique.com"

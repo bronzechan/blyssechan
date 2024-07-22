@@ -3,7 +3,7 @@ style: "style2 orient-right content-align-left image-position-right onscroll-ima
 id: "daddy"
 title : "Daddy"
 content: |
-  A home-office daddy who loves raising and talking to kids. Known for his patience with kids. <br> Also he is a frequent flyer to explore Asia Pacific and often brings the family with new adventures.  
+  A home-office daddy who loves raising and talking to kids. Known for his <string>patience</string> with kids. <br> Also he is a frequent flyer to explore Asia Pacific and often brings the family with new adventures. <br> Interests: Sports, Science, Technology.
 button: 
   label: "Daddy's work"
   link: "http://www.bee-channel.com"
